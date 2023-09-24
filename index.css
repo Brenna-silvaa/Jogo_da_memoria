@@ -1,0 +1,13 @@
+.board{
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 300px;
+    gap: 10px;
+}
+
+h1{
+    text-align: center;
+    color: pink;
+}
